@@ -9,7 +9,7 @@ public String toString() {
 
 public static void main(String[] args) {
 	
-	System.out.println("this is shanthi");
+	System.out.println("this is shanthis");
 }
 
 }
